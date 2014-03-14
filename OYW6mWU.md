@@ -10,6 +10,7 @@ id: "JustinGuarachado-OYW6mWU"
 ## Setup
 ### Materials
 - Computers with internet access
+
 ### Media and Handouts
 - Application development video
 

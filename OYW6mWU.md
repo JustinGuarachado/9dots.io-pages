@@ -13,6 +13,12 @@ id: "JustinGuarachado-OYW6mWU"
 
 ### Media and Handouts
 - Application development video
+- Brainstorming handout
+
+### Preparation
+Load examples of application web pages on as many computers as you have available to you.
+Examples:
+[Chrome Browser](https://www.google.com/intl/en/chrome/browser/) 
 
 
 ## Introduce
@@ -27,5 +33,5 @@ Guided questions and research...
 ## Innovate
 New knowledge is used to create...
 
-## Discuss
+## Share
 Discussion questions...
